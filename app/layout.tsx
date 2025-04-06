@@ -11,7 +11,7 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "About Nishant Mehta",
+  title: "Nishant Mehta",
   description: "Personal website of Nishant Mehta",
     // generator: 'v0.dev'
 }
