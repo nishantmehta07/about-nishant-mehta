@@ -13,7 +13,7 @@ export default function ProjectsModal({ isOpen, onClose }: ProjectsModalProps) {
     {
       title: "E-Library Platform",
       description: "A web-based E-Library platform with personalized book recommendations and a smooth UX.",
-      tech: ["React", "MongoDB", "Firebase/Auth"],
+      tech: ["React", "MongoDB", "Node.js", "Express", "Tailwind CSS", "JWT Auth"],
       features: [
         "Book discovery, search, categorization",
         "User-based recommendation engine",
@@ -25,7 +25,7 @@ export default function ProjectsModal({ isOpen, onClose }: ProjectsModalProps) {
       title: "AI-Powered Investor Dashboard",
       description:
         "A smart investment dashboard that helps retail investors track portfolios and get AI-driven financial predictions.",
-      tech: ["React", "OpenAI API", "Chart.js"],
+        tech: ["React", "Node.js", "Express", "MongoDB", "Tailwind CSS", "Hugging Face", "Gemini API", "OpenAI API", "Recharts"],
       features: [
         "Portfolio insights & risk analysis",
         "AI chatbot for finance queries",
