@@ -11,9 +11,9 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "Nishant Mehta | Portfolio",
-  description: "Personal portfolio website of Nishant Mehta",
-    generator: 'v0.dev'
+  title: "About Nishant Mehta",
+  description: "Personal website of Nishant Mehta",
+    // generator: 'v0.dev'
 }
 
 export default function RootLayout({
