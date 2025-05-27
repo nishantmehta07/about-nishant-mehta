@@ -14,7 +14,7 @@ export default function EducationModal({ isOpen, onClose }: EducationModalProps)
       institution: "Adani University",
       period: "2022 - 2026",
       degree: "ICT",
-      score: "CGPA: 7.1",
+      score: "CGPA: 7.25",
     },
     {
       institution: "Kendriya Vidyalaya No.1",
